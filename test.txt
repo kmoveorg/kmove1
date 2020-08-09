@@ -2,3 +2,4 @@ test
 kmove1
 test
 choimysil
+visual studio test
